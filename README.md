@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... **Multivariate Visulizations for categorical data**
+- 🔭 I’m currently working on ... **Multivariate Visualizations for categorical data**
 - 🌱 I’m currently learning ... **Python, SQL, Database Visualization and Communication**                                                     
 - 👯 I’m looking to collaborate on ... **Any Data Related Project**                                         
 - 🤔 I’m looking for help with ... **Twitter API Query**
