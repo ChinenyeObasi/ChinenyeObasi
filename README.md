@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... obasichinenyef@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I think Headsets and earphones are the dopest tech inventions
-Please don't hesitate to reach out if your are also transitioning and need an accountability buddy
+- Please don't hesitate to reach out if your are also transitioning and need an accountability buddy
