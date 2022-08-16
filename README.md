@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Multivariate Visulizations for categorical data
 - 🌱 I’m currently learning ...SQL and Database Management
 - 👯 I’m looking to collaborate on ... Any Data Related Project
 - 🤔 I’m looking for help with ... Twitter API Query
